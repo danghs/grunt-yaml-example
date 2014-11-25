@@ -6,10 +6,12 @@ Demo of grunt-yaml
 
 ## Prerequisites
 
-Node installed
-Clone and `npm install`
+Node.js
 
 ## Usage
+`git clone git@github.com:danghs/grunt-yaml-example.git`
+
+`npm install`
 
 Run `grunt`
 
