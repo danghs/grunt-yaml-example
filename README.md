@@ -11,6 +11,8 @@ Node.js
 ## Usage
 `git clone git@github.com:danghs/grunt-yaml-example.git`
 
+`cd grunt-yaml-example/`
+
 `npm install`
 
 Run `grunt`
