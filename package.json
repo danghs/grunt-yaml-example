@@ -1,0 +1,13 @@
+{
+  "name": "gruntconvert",
+  "version": "0.0.0",
+  "description": "grunt-convert",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-yaml": "^0.4.1"
+  }
+}
